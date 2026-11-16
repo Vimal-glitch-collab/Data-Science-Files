@@ -1,0 +1,9 @@
+Data[[:space:]]Sets/DL_CNN_DataSets/Plain-Pothole.zip filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]Sets/DL_CNN_DataSets/Helmet-Detection.zip filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]Sets/DL_CNN_DataSets/Fire-dataset.zip filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]Sets/WELFake_Dataset.csv filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]Sets/DL_CNN_DataSets/Multiple[[:space:]]Weather.zip filter=lfs diff=lfs merge=lfs -text
+NLP/News_Data_Final.csv filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]Sets/NLP[[:space:]]DataSets/IMDB[[:space:]]Dataset.csv filter=lfs diff=lfs merge=lfs -text
+NLP/IMDB_Data_Cleaned.csv filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]Sets/DL_CNN_DataSets/Multiple-skin-diseases.zip filter=lfs diff=lfs merge=lfs -text
